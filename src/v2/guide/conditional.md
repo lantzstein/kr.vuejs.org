@@ -173,7 +173,7 @@ new Vue({
 
 차이점은 `v-show`가 있는 엘리먼트는 항상 렌더링 되고 DOM에 남아있다는 점입니다. `v-show`는 단순히 엘리먼트에 `display` CSS 속성을 토글합니다.
 
-<p class="tip">`v-show`는 `<template>` 구문을 지원하지 않으며 `v-else`와도 작동하지 않습니다.</p>
+<p class="tip">`v-show`는 <template> 구문을 지원하지 않으며 `v-else`와도 작동하지 않습니다.</p>
 
 ## `v-if` vs `v-show`
 
